@@ -1,0 +1,36 @@
+:root {
+  --mainText: black;
+  --secondaryText: #4b5156;
+
+  --mainColor: #eaeaea;
+  --secondaryColor: #fff;
+
+  --borderColor: #c1c1c1;
+
+  --mainFont: "Popins", sans-serif;
+  --secondaryFont: "Tenon Sans", sans-serif;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+  color: var(--mainTextColor);
+}
+
+p,
+li,
+span,
+label,
+input,
+textarea,
+select {
+}
